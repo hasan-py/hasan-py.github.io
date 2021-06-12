@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.38d38bfa.chunk.css",
-    "main.js": "/static/js/main.c450e845.chunk.js",
-    "main.js.map": "/static/js/main.c450e845.chunk.js.map",
+    "main.css": "/static/css/main.958bb2c0.chunk.css",
+    "main.js": "/static/js/main.330badbb.chunk.js",
+    "main.js.map": "/static/js/main.330badbb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
     "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
-    "static/js/2.a1ad9748.chunk.js": "/static/js/2.a1ad9748.chunk.js",
-    "static/js/2.a1ad9748.chunk.js.map": "/static/js/2.a1ad9748.chunk.js.map",
+    "static/js/2.23fcbac3.chunk.js": "/static/js/2.23fcbac3.chunk.js",
+    "static/js/2.23fcbac3.chunk.js.map": "/static/js/2.23fcbac3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d88892ef94460c96ae54ebd213148952.js": "/precache-manifest.d88892ef94460c96ae54ebd213148952.js",
+    "precache-manifest.62db14758eef769486c349b14f7b398c.js": "/precache-manifest.62db14758eef769486c349b14f7b398c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.38d38bfa.chunk.css.map": "/static/css/main.38d38bfa.chunk.css.map",
-    "static/js/2.a1ad9748.chunk.js.LICENSE.txt": "/static/js/2.a1ad9748.chunk.js.LICENSE.txt",
+    "static/css/main.958bb2c0.chunk.css.map": "/static/css/main.958bb2c0.chunk.css.map",
+    "static/js/2.23fcbac3.chunk.js.LICENSE.txt": "/static/js/2.23fcbac3.chunk.js.LICENSE.txt",
     "static/media/Bootstrap.svg": "/static/media/Bootstrap.bc6a9c63.svg",
     "static/media/Css.svg": "/static/media/Css.d10f4bf6.svg",
     "static/media/Django.svg": "/static/media/Django.1011a393.svg",
@@ -23,23 +23,19 @@
     "static/media/Javascript.svg": "/static/media/Javascript.8ee02715.svg",
     "static/media/style.css": "/static/media/Lemon Milk Pro Ultra Light.9c780ef6.otf",
     "static/media/LinkedIn.svg": "/static/media/LinkedIn.c29a1dc3.svg",
-    "static/media/Material.svg": "/static/media/Material.861aadad.svg",
     "static/media/Mongodb.svg": "/static/media/Mongodb.409452f1.svg",
-    "static/media/Mysql.svg": "/static/media/Mysql.98f5c333.svg",
     "static/media/Nodejs.svg": "/static/media/Nodejs.a922a653.svg",
     "static/media/Python.svg": "/static/media/Python.4948e676.svg",
     "static/media/Reactjs.svg": "/static/media/Reactjs.a899d525.svg",
-    "static/media/Sass.svg": "/static/media/Sass.dce14c44.svg",
-    "static/media/Skype.svg": "/static/media/Skype.1969c34a.svg",
     "static/media/Tailwind.svg": "/static/media/Tailwind.2ba0ad14.svg",
     "static/media/Twitter.svg": "/static/media/Twitter.558f2c1e.svg",
-    "static/media/Vue.svg": "/static/media/Vue.b00020dd.svg",
+    "static/media/Ubuntu.svg": "/static/media/Ubuntu.43bfb411.svg",
     "static/media/Youtube.svg": "/static/media/Youtube.6c378143.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.09b85ec0.js",
-    "static/js/2.a1ad9748.chunk.js",
-    "static/css/main.38d38bfa.chunk.css",
-    "static/js/main.c450e845.chunk.js"
+    "static/js/2.23fcbac3.chunk.js",
+    "static/css/main.958bb2c0.chunk.css",
+    "static/js/main.330badbb.chunk.js"
   ]
 }
